@@ -7,10 +7,12 @@ Alejandro Cruz-Bautista: cruzbautistaa17@students.ecu.edu
 
 Shaun Evans: evanssh20@students.ecu.edu
 
-Exercise 1:
-![alt text](https://github.com/AlexButtonECU/CSCI4120Group8/blob/main/Homework%203/Exercise1.PNG)
+Linear Regression score: 0.7691752923789885
 
+Ridge score: 0.7699746169255028
+Ridge alpha: 0.9974662396744683
 
+Lasso score: 0.76990360237112
+Lasso alpha: 0.9981789827089937
 
-Exercise 2:
-![alt text](https://github.com/AlexButtonECU/CSCI4120Group8/blob/main/Homework%203/Exercise2.PNG)
+Ridge model preformed the best out of the 3 but only by a very small margin.
