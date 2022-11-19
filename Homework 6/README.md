@@ -19,7 +19,9 @@ Linear:
 Polynomial:
   
   C: 1
+  
   degree: 3
+  
   gamma: scale
   
   Accuracy: 0.9705106778087279
@@ -27,6 +29,7 @@ Polynomial:
 Radial/rbf:
   
   C: 7
+  
   gamma: scale
   
   Accuracy: 0.974405756731662
@@ -43,7 +46,9 @@ Linear:
 Polynomial:
   
   C: 10
+  
   degree: 3
+  
   gamma: scale
   
   Accuracy: 0.9482745280099041
@@ -51,6 +56,7 @@ Polynomial:
 Radial/rbf:
   
   C: 2
+  
   gamma: scale
   
   Accuracy: 0.9666233364283503
