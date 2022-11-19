@@ -7,7 +7,7 @@ Alejandro Cruz-Bautista: cruzbautistaa17@students.ecu.edu
 
 Shaun Evans: evanssh20@students.ecu.edu
 
-#Before PCA
+# Before PCA
 Accuracy and Parameters chosen for:
 
 Linear:
@@ -28,7 +28,7 @@ Radial/rbf:
   
   Accuracy: 0.974405756731662
 
-#After PCA
+# After PCA
 Accuracy and Parameters chosen for:
 
 Linear:
