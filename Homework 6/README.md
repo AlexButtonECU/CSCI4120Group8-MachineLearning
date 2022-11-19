@@ -10,13 +10,13 @@ Shaun Evans: evanssh20@students.ecu.edu
 # Before PCA
 Accuracy and Parameters chosen for:
 
-Linear:
+**Linear:**
   
   C: 0.5
   
   Accuracy: 0.9476973073351903
   
-Polynomial:
+**Polynomial:**
   
   C: 1
   
@@ -26,7 +26,7 @@ Polynomial:
   
   Accuracy: 0.9705106778087279
   
-Radial/rbf:
+**Radial/rbf:**
   
   C: 7
   
@@ -37,13 +37,13 @@ Radial/rbf:
 # After PCA
 Accuracy and Parameters chosen for:
 
-Linear:
+**Linear:**
   
   C: 0.5
   
   Accuracy: 0.9154302073661406
   
-Polynomial:
+**Polynomial:**
   
   C: 10
   
@@ -53,7 +53,7 @@ Polynomial:
   
   Accuracy: 0.9482745280099041
   
-Radial/rbf:
+**Radial/rbf:**
   
   C: 2
   
