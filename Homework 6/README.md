@@ -7,13 +7,44 @@ Alejandro Cruz-Bautista: cruzbautistaa17@students.ecu.edu
 
 Shaun Evans: evanssh20@students.ecu.edu
 
-Best hyperparameters: 
-n_estimators: 100
-min_samples_split: 4
-min_samples_leaf: 5
-max_features: 'sqrt'
-max_depth: 100
-bootstrap: True
+#Before PCA
+Accuracy and Parameters chosen for:
 
-Average score:  0.9447515913678002
-Average score/Number of features:  0.4723757956839001
+Linear:
+  C: 0.5
+  
+  Accuracy: 0.9476973073351903
+  
+Polynomial:
+  C: 1
+  degree: 3
+  gamma: scale
+  
+  Accuracy: 0.9705106778087279
+  
+Radial/rbf:
+  C: 7
+  gamma: scale
+  
+  Accuracy: 0.974405756731662
+
+#After PCA
+Accuracy and Parameters chosen for:
+
+Linear:
+  C: 0.5
+  
+  Accuracy: 0.9154302073661406
+  
+Polynomial:
+  C: 10
+  degree: 3
+  gamma: scale
+  
+  Accuracy: 0.9482745280099041
+  
+Radial/rbf:
+  C: 2
+  gamma: scale
+  
+  Accuracy: 0.9666233364283503
