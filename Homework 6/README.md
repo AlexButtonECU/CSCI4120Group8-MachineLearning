@@ -11,19 +11,25 @@ Shaun Evans: evanssh20@students.ecu.edu
 Accuracy and Parameters chosen for:
 
 **Linear:**
+
 C: 0.5
   
 Accuracy: 0.9476973073351903
   
 **Polynomial:**
+
 C: 1
+
 degree: 3  
+
 gamma: scale
 
 Accuracy: 0.9705106778087279
   
 **Radial/rbf:**  
+
 C: 7
+
 gamma: scale
   
 Accuracy: 0.974405756731662
@@ -32,18 +38,25 @@ Accuracy: 0.974405756731662
 Accuracy and Parameters chosen for:
 
 **Linear:**
+
 C: 0.5
+
 Accuracy: 0.9154302073661406
   
 **Polynomial:**
+
 C: 10
+
 degree: 3
+
 gamma: scale
   
 Accuracy: 0.9482745280099041
   
 **Radial/rbf:**
+
 C: 2
+
 gamma: scale
 
 Accuracy: 0.9666233364283503
